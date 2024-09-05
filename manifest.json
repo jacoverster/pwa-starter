@@ -1,0 +1,10 @@
+{
+    "name": "PWA Starter",
+    "short_name": "PWA",
+    "start_url": "/?home=true",
+    "display": "fullscreen",
+    "background_color": "#ffffff",
+    "description": "A simple PWA starter template",
+    "orientation": "portrait",
+    "icons": []
+}
